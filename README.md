@@ -11,7 +11,7 @@
 
 - 🎓 BS `Software Engineering` student at <a href="http://isb.nu.edu.pk/" target="_blank" rel="noreferrer"> ` Fast National University Of Computer Sciences ` </a>
   
-- 📧 Drop Me An <a href="sheryar@bulkbazaar.tech" target="blank">`Email`</a> <br>
+- 📧 Drop Me An <a href="sheryarkayani70@gmail.com" target="blank">`Email`</a> <br>
 
 - 🤝 I contribute to `Open Source` projects according to my skill set.
 
