@@ -5,7 +5,7 @@
 
 <!-- <img align="right" src="meGithubWorkshop.png" width="500" height="500" />  -->
 
-- 🖊️ I’m currently working on my b2b marketplace startup <a href= "https://bulkbazaar.azurewebsites.net/" > `bulkbazaar `  <a>
+- 🖊️ I’m currently working on my Voice AI startup <a href= "https://www.getclaraai.com/" > `Clara AI `  <a>
 
 - 🔥 I build software , lift weights and write Facts. 
 
